@@ -1,0 +1,27 @@
+h1{
+    background-color: palevioletred;
+}
+
+body
+{
+    background-color: aqua;
+}
+button
+{
+    background-color: brown;
+}
+
+div{
+    border: 2px solid black;
+}
+
+.para
+{
+    background-color: red;
+    color: green;
+}
+
+.newclass
+{
+    background-color: black;
+}
