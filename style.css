@@ -1,27 +1,8 @@
-h1{
-    background-color: palevioletred;
-}
-
-body
+.box1
 {
-    background-color: aqua;
-}
-button
-{
-    background-color: brown;
-}
-
-div{
-    border: 2px solid black;
-}
-
-.para
-{
-    background-color: red;
-    color: green;
-}
-
-.newclass
-{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
     background-color: black;
+    margin-top: 20px;
 }
